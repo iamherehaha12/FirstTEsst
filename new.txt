@@ -1,0 +1,6 @@
+git status
+git add .
+git add filename
+git commit -m "gf"
+git push -u origin main
+git clone https://github.com/iamherehaha12/FirstTEsst.git
